@@ -1,1 +1,6 @@
 body {background-color: #ffe49e;}
+@font-face {
+  font-family: "Bodoni";
+  src: url('BodoniSvtyTwoITCTT-Book.ttf') format("truetype");
+}
+*{ font-family: "Bodoni", serif }
